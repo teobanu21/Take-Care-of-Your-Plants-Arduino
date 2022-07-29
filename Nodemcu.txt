@@ -1,0 +1,14 @@
+Am icercat sa conectam placuta Nodemcu la Wifi. Acest lucru a necesitat o conexiunepe o latime de banda de 2,4GHz, intrucat asa este configurata placa.
+
+Am intampinat multe probleme intrucat o data mergea codul, adica reuseam sa ne conectam si sa actionam un led de pe un site, insa alteori (de cele mai 
+multe ori) aparea eroarea "Failed to connect". Intr-un final am reusit o transmisie de date seriale, prin intermediul unor "pachete" ce sunt parsate in functie de anumiti parametri de catre placuta NodeMCU.
+
+Pentru documentatie am folosit urmatoarele site-uri:
+
+https://docs.arduino.cc/library-examples/wifi-library/WiFiWebServer
+https://www.instructables.com/Getting-Started-With-ESP8266LiLon-NodeMCU-V3Flashi/
+https://www.javatpoint.com/arduino-serial-serial-begin#:~:text=The%20default%20baud%20rate%20in,bps%20(bits%20per%20second).
+https://internet-access-guide.com/esp8266-not-connecting-to-wifi/
+https://www.youtube.com/watch?v=fwGdmU2wi9s
+https://roboindia.com/tutorials/serial-monitor-nodemcu/
+
