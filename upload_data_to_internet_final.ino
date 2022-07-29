@@ -12,8 +12,8 @@ unsigned long myChannelNumber = 1778168;
 const char * myWriteAPIKey = "GXWER7ZU31C5J6CR";
 
 
-const char* ssid = "TEO 2865"; // Write here your router's username
-const char* password = "nR27@200"; // Write here your router's passward
+const char* ssid = "ssid"; // Write here your router's username
+const char* password = "passwd"; // Write here your router's passward
 
 int status = WL_IDLE_STATUS;
 WiFiClient  client;
